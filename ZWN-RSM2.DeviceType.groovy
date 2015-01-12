@@ -9,7 +9,7 @@
  */
  // for the UI
 metadata {
-  definition (name: "ZWN-RSM2 Enerwave Dual Load", namespace: "Matt Frank", author: "Matt Frank") {
+  definition (name: "ZWN-RSM2 Enerwave Dual Load", namespace: "mattjfrank", author: "Matt Frank") {
     capability "Switch"
     capability "Polling"
     capability "Configuration"
